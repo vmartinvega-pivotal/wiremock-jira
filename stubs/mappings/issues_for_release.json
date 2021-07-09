@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/rest/api/2/search?jql=project%3D15000%20AND%20fixVersion%3D22222"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName" : "wiremock-jira-global-alm-fix-pre.appls.ocp.ccc.srvb.cn2.paas.cloudcenter.corp.json"
+  }
+}

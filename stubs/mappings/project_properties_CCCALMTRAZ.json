@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/rest/projectproperties/1.0/property/list/CCCALMTRAZ"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "project_properties_CCCALMTRAZ.json"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "webhookEvent": "jira:version_released",
+    "version": {
+      "archived": false,
+      "overdue": false,
+      "name": "PRUEBA_RELEASE",
+      "self": "{{wiremock_jira}}/rest/api/2/version/22222",
+      "description": "",
+      "userReleaseDate": "16/Feb/77",
+      "id": "22222",
+      "projectId": 15000,
+      "released": true
+    },
+    "SGT_TRACEABILITY": "RELEASE_VERSION_RELEASED_EVENT",
+    "timestamp": 224931600000
+  }
